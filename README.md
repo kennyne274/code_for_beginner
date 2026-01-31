@@ -1,6 +1,7 @@
 # code_for_beginner
-Simple Practice Code for Python Beginners
 
-"Here you’ll find Python code created by beginners and foundational practice code for learning Python."
 
-"파이썬 초보가 만든 코드와 초보를 위한 연습용 기초 코드를 제공합니다."
+useful code blocks for me...
+
+
+나를 위한 유용한 코드 조각을 모아놓은 곳
