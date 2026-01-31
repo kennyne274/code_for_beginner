@@ -1,0 +1,12 @@
+# 이미지 리사이즈
+
+from PIL import Image
+img = Image.open("brain.png")
+
+img_resized = img.resize((912,768), Image.LANCZOS)
+
+img_resized.save(   "brain.png",
+    quality=95,
+    subsampling=0,
+    optimize=True
+)
